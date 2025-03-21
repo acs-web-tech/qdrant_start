@@ -112,3 +112,7 @@ This initializes both searchers. A GET endpoint /api/search allows querying with
 
 ## config.py
 This retrieves environment variables for the Qdrant URL, API key, collection name, and embeddings model. It sets the name of the field used for text data as “document”. 
+
+
+## Contributors 
+Arun P, Ganesh C
